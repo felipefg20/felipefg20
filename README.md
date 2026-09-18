@@ -1,6 +1,6 @@
 # Olá, sou o Felipe Fonseca 👋
 
-Desenvolvedor Backend focado na criação de APIs escaláveis, arquitetura de sistemas e microsserviços.
+Estudante de Ciência da Computação, desenvolvedor Backend focado na criação de APIs escaláveis, arquitetura de sistemas e microsserviços.
 
 ---
 
